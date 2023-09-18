@@ -1,7 +1,11 @@
 # compiled output
+/front/dist
+/front/node_modules
 /backend/dist
 /backend/node_modules
 /backend/.env
+/front/.env
+/front/.next
 
 # Logs
 /backend/logs
