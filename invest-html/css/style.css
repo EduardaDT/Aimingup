@@ -421,7 +421,7 @@ button {
      font-size: 17px;
      line-height: 30px;
      color: #f1f1f1;
-     padding: 45px 0px;
+     padding: 20px 0px;
 }
 
 .about_img figure {
@@ -429,8 +429,7 @@ button {
 }
 
 .about_img figure img {
-     width: 100%;
-     box-shadow: 0 0 49px rgba(46, 46, 46, 0.856);
+     width: 50%;
 }
 
 .about .read_more {
@@ -576,7 +575,7 @@ button {
 }
 
 .mapimg figure img {
-     width: 100%;
+     width: 60%;
 }
 
 label {
