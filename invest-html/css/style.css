@@ -42,7 +42,7 @@ html {
 }
 
 body {
-     color: #666666;
+     color: #301438;
      font-size: 14px;
      font-family: 'Lato', sans-serif;
      line-height: 1.80857;
@@ -142,7 +142,7 @@ p {
 }
 
 a {
-     color: #222222;
+     color: #280c30;
      text-decoration: none;
      outline: none !important;
 }
@@ -184,8 +184,8 @@ img {
 }
 
 .form-control:focus {
-     border-color: #ffffff !important;
-     box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
+     border-color: #170327 !important;
+     box-shadow: 0 0 0 .2rem rgba(37, 9, 48, 0.25);
 }
 
 .navbar-form input {
@@ -261,7 +261,7 @@ button {
 
 .header {
      padding: 40px 16px;
-     background: #414141;
+     background: #35013a;
      color: #f1f1f1;
      width: 100%;
      z-index: 9999999;
@@ -283,7 +283,7 @@ button {
 }
 
 .header_bottom {
-     background-color: #292929;
+     background-color: #031242;
 }
 
 .navigation.navbar {
@@ -337,7 +337,7 @@ button {
 /** banner section **/
 
 .full_bg {
-     background-color: black;
+     background-image: url(../images/background2.png);
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
@@ -403,7 +403,7 @@ button {
 /** about section **/
 
 .about {
-     background: url(../images/background.png);
+     background: #2c003abb;
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -443,7 +443,7 @@ button {
 /** gallery **/
 
 .gallery {
-     background:#a8a8a8;
+     background: url(../images/background.png);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      background-position: center;
@@ -461,7 +461,7 @@ button {
 
 .view_main {
      position: absolute;
-     background-color: #1c303fcf;
+     background-color: #07070757;
      top: 0;
      height: 100%;
      left: 15px;
@@ -559,7 +559,8 @@ button {
 /** contact **/
 
 .contact {
-     background: #242627;
+     background: url(../images/background.png);
+     background-size: 200%;
      padding-bottom: 40px;
      padding-top: 78px;
 }
@@ -568,10 +569,6 @@ button {
      max-width: 554px;
      width: 100%;
      float: left;
-}
-
-.mapimg figure {
-     margin: 0;
 }
 
 .mapimg figure img {
@@ -592,7 +589,7 @@ label {
      width: 100%;
      height: 50px;
      background: #fff;
-     color: #021626;
+     color: #00000083;
      font-size: 17px;
      font-weight: normal;
      border: inherit;
@@ -602,7 +599,7 @@ label {
      margin-bottom: 20px;
      width: 100%;
      background: #fff;
-     color: #021626;
+     color: #0000008c;
      font-size: 17px;
      font-weight: normal;
      padding: 12px 15px 10px 15px;
@@ -633,7 +630,7 @@ label {
 }
 
 #request *::placeholder {
-     color: #021626;
+     color: #0000007c;
      opacity: 1;
 }
 
@@ -881,7 +878,7 @@ ul.social_icon li a i:hover {
 }
 
 .carousel-caption button {
-     border-color: #00bfff;
+     border-color: #292929;
      margin-top: 1em;
 }
 
@@ -931,7 +928,7 @@ ul.social_icon li a i:hover {
 
 .inner_page .full_bg {
 height: 176px;
-background:#021626db;
+background:#00000067;
 }
 
 .inner_page .logo {
