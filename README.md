@@ -1,6 +1,6 @@
 # Aiming Up
 
-## Tudo que você precisa saber sobre DeFi em uma única plataforma
+## Tudo o que você precisa saber sobre DeFi em uma única plataforma
 
 A Aiming Up consiste em fornecer uma plataforma gamificada para introduzir assuntos sobre finanças descentralizadas para um público mais leigo.
 
