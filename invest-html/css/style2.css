@@ -10,7 +10,7 @@
     font-family: montserrat;
   }
   nav{
-    background: url("../images/background.png");
+    background-color:#000000;
     height: 100px;
     width: 100%;
     z-index: 2200;
@@ -41,7 +41,7 @@
     text-transform: uppercase;
   }
   a.active,a:hover{
-    background: #2f2f30;
+    background: #000000;
     transition: .5s;
   }
   .checkbtn{
@@ -73,7 +73,7 @@
       position: fixed;
       width: 100%;
       height: 100vh;
-      background: #00000065;
+      background: #00000098;
       top: 80px;
       left: -100%;
       text-align: center;
@@ -98,7 +98,7 @@
     }
   }
   section{
-    background: #46464660 no-repeat;
+    background: #8400ff60 no-repeat;
     background-size: cover;
     height: calc(100vh - 80px);
   }
@@ -115,13 +115,15 @@ body{
   height: 100%;
   width: 100%;
   text-align: center;
-  background: #f2f2f2;
+  background: #2c003abb;
 }
 .wrapper{
   display: grid;
   margin: 200px 90px auto;
   grid-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  padding-bottom: 40px;
+
 }
 @media (max-width: 700px) {
   .wrapper{
@@ -158,7 +160,7 @@ body{
 }
 .box .front-face .icon i,
 .box .front-face span{
-  background: linear-gradient(-135deg, #060813, #555555);
+  background: linear-gradient(-135deg, #7100f3, #ff00dd);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -174,7 +176,7 @@ body{
   opacity: 0;
   transform-style: preserve-3d;
   backface-visibility: hidden;
-  background: linear-gradient(-135deg, #060813, #555555);
+  background: linear-gradient(-135deg, #49009c, #ff00dd);
   transform: translateY(110px) rotateX(-90deg);
   box-shadow: 0px 5px 20px 0px rgba(0, 81, 250, 0.1);
   transition: all 0.5s ease;

@@ -64,7 +64,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #1e1d1f;
   text-align: left;
   background-color: #fff;
 }
@@ -161,14 +161,14 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #d400ff;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #8900b3;
   text-decoration: underline;
 }
 
@@ -514,7 +514,7 @@ samp {
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #8d3ee8;
   word-break: break-word;
 }
 
@@ -526,7 +526,7 @@ kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
   color: #fff;
-  background-color: #212529;
+  background-color: #262129;
   border-radius: 0.2rem;
 }
 
@@ -1584,16 +1584,16 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #b8daff;
+  background-color: #dfb8ff;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #9fcdff;
+  background-color: #c49fff;
 }
 
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #9fcdff;
+  background-color: #d19fff;
 }
 
 .table-secondary,
@@ -1618,7 +1618,7 @@ pre code {
 }
 
 .table-hover .table-success:hover {
-  background-color: #b1dfbb;
+  background-color: #b8b1df;
 }
 
 .table-hover .table-success:hover > td,
