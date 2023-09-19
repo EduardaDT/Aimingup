@@ -13,6 +13,8 @@
     background: url("../images/background.png");
     height: 100px;
     width: 100%;
+    z-index: 2200;
+    position: sticky;
   }
   div.logo{
     width: 50px;
@@ -20,6 +22,7 @@
     line-height: 80px;
     padding: 0 100px;
     font-weight: bold;
+    position: relative;
   }
   nav ul{
     float: right;
@@ -90,6 +93,8 @@
     }
     #check:checked ~ ul{
       left: 0;
+      z-index: 1;
+      top: 1;
     }
   }
   section{
@@ -154,6 +159,7 @@ body{
 .box .front-face .icon i,
 .box .front-face span{
   background: linear-gradient(-135deg, #060813, #555555);
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .box .back-face{
