@@ -261,7 +261,7 @@ button {
 
 .header {
      padding: 40px 16px;
-     background: #000000;
+     background: #414141;
      color: #f1f1f1;
      width: 100%;
      z-index: 9999999;
@@ -283,7 +283,7 @@ button {
 }
 
 .header_bottom {
-     background-color: #606060;
+     background-color: #292929;
 }
 
 .navigation.navbar {
@@ -337,7 +337,7 @@ button {
 /** banner section **/
 
 .full_bg {
-     background: url(../images/background.png);
+     background-color: black;
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
@@ -369,7 +369,7 @@ button {
 
 .read_more {
      font-size: 17px;
-     background-color: #111111;
+     background: #3b3b3b;
      color: #fff;
      padding: 13px 0px;
      width: 100%;
@@ -403,7 +403,7 @@ button {
 /** about section **/
 
 .about {
-     background: rgb(37, 36, 37);
+     background: url(../images/background.png);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
