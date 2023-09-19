@@ -16,7 +16,7 @@
     z-index: 2200;
     position: sticky;
   }
-  div.logo{
+  label.logo{
     width: 50px;
     font-size: 35px;
     line-height: 80px;
