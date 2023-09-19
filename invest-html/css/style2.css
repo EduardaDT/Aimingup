@@ -154,7 +154,6 @@ body{
 .box .front-face .icon i,
 .box .front-face span{
   background: linear-gradient(-135deg, #060813, #555555);
-  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .box .back-face{
