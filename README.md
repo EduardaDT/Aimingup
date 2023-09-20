@@ -1,5 +1,6 @@
-# Aiming Up
+![image](https://github.com/EduardaDT/hackathonZ/assets/95882160/5de09c7e-538c-40a3-a47a-f983b815737c)
 
+# Aiming Up 
 ## Tudo o que você precisa saber sobre DeFi em uma única plataforma
 
 A Aiming Up consiste em fornecer uma plataforma gamificada para introduzir assuntos sobre finanças descentralizadas para um público mais leigo.
