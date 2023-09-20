@@ -15,6 +15,8 @@ Além disso também oferece o serviço de passar certificados para blockchain.
   <li>Certificados blockchain</li>
 </ul>
 
+O site principal encontra se em invest_html.
+
 A integração com o nomo plugin se encontra nas pastas backend e front, com seus respectivos readme de utilização.
 
 Os slides do projeto encontram se em "Aiming Up.pptx"
