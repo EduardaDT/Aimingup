@@ -23,7 +23,26 @@ Os slides do projeto encontram se em "Aiming Up.pptx"
 
 NFTs são gerados na rede Zeniq através do uso de hardhat, na pasta nft_hardhat tem o readme com mais informações.
 
-### Membros da Equipe
+
+## Organization and learning all on a single platform
+Aiming Up consists of providing a gamified platform to introduce topics about decentralized finance to a more lay audience. In addition, it also offers the service of transferring certificates to the blockchain.
+
+### Functionalities
+<ul>
+<li>Login using Nomo App</li>
+<li>Gamification through NFTs</li>
+<li>Course Offer</li>
+<li>Evolution ranking</li>
+<li>blockchain certificates</li>
+<li>The main website is at invest_html.</li>
+
+The integration with the name plugin is found in the backend and front folders, with their respective usage readme.
+
+The project slides can be found in "Aiming Up.pptx"
+
+NFTs are generated on the Zeniq network through the use of hardhat, in the nft_hardhat folder there is the readme with more information.
+
+### Team Members
 <ul>
   <li>Maria Eduarda Targino</li>
   <li>Claudia Capela</li>
