@@ -42,7 +42,7 @@ The project slides can be found in "Aiming Up.pptx"
 
 NFTs are generated on the Zeniq network through the use of hardhat, in the nft_hardhat folder there is the readme with more information.
 
-### Team Members
+## Team Members
 <ul>
   <li>Maria Eduarda Targino</li>
   <li>Claudia Capela</li>
