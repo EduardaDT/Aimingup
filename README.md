@@ -35,7 +35,8 @@ Aiming Up consists of providing a gamified platform to introduce topics about de
 <li>Course Offer</li>
 <li>Evolution ranking</li>
 <li>blockchain certificates</li>
-<li>The main website is at invest_html.</li>
+  
+The main website is at invest_html.
 
 The integration with the name plugin is found in the backend and front folders, with their respective usage readme.
 
