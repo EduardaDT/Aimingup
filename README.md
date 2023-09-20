@@ -12,6 +12,8 @@ A Aiming Up consiste em fornecer uma plataforma gamificada para introduzir assun
   <li>Oferta de Cursos</li>
 </ul>
 
+NFTs geradas através do uso de hardhat, para saber mais, na pasta nft_hardhat tem o readme do passo a passo.
+
 ### Membros da Equipe
 <ul>
   <li>Maria Eduarda Targino</li>
